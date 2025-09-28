@@ -17,7 +17,7 @@ The goal is to uncover **patterns in productivity and academic performance** whi
 ---
 
 ## Dataset
-- **Source:** [Student Lifestyle Dataset on Kaggle](https://www.kaggle.com/) *(add exact link once you upload/confirm)*  
+- **Source:** [Student Lifestyle Dataset on Kaggle](https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset)
 - **Size:** ~2000 rows, 8 columns  
 - **Features:**
   - `Study_Hours_Per_Day`

@@ -68,8 +68,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 ## Author
-👤 Paul Christian M. Mandap  
-📧 paulmandap16@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/paulmandap/) | [Portfolio](https://github.com/paulmandap)
+Paul Christian M. Mandap  
+paulmandap16@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/paulmandap/) | [Portfolio](https://github.com/paulmandap)
 
 
